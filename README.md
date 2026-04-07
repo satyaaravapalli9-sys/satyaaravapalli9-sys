@@ -1,13 +1,17 @@
-<div align="center">
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=280&section=header&text=Satya%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Leader%20%7C%20Full%20Stack%20Architect%20%7C%20Cloud%20%26%20AI%20Specialist&descAlignY=55&descSize=22" alt="Header"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=280&section=header&text=Satya%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Leader%20|%20Full%20Stack%20Architect%20|%20Cloud%20%26%20AI%20Specialist&descAlignY=55&descSize=22" alt="Header" width="100%" />
+<p align="center">
+    <a href="https://linkedin.com/in/satyakumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:satyaaravapalli9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="tel:+18722767788"><img src="https://img.shields.io/badge/Phone-%2B1%20(872)%20276--7788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+    <a href="https://github.com/satyaaravapalli9-sys"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<a href="https://linkedin.com/in/satyakumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:satyaaravapalli9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="tel:+18722767788"><img src="https://img.shields.io/badge/Phone-%2B1%20(872)%20276--7788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-<a href="https://github.com/satyaaravapalli9-sys"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Java+Full+Stack+Developer+%7C+AWS+%7C+SRE;Building+Resilient+Systems+at+Scale;5%2B+Years+%7C+99.9%25+Uptime+%7C+15%2B+Microservices" alt="Typing SVG"/></a>
+</p>
 
 ---
 
@@ -19,8 +23,6 @@ Currently engineering **real-time operational systems** at United Airlines, wher
 
 ### 📊 Leadership Impact Dashboard
 
-<div align="center">
-
 | **Metric** | **Achievement** | **Business Impact** |
 |:-----------|:---------------:|:-------------------|
 | **Production Systems Supported** | 15+ Microservices | Real-time ops for major airline |
@@ -30,8 +32,6 @@ Currently engineering **real-time operational systems** at United Airlines, wher
 | **Cloud Infrastructure** | AWS EKS + 10+ Services | Cost-optimized, auto-scaling architecture |
 | **Technology Modernization** | Event-Driven Architecture | Kafka/MSK implementation |
 | **Career Progression** | 2 Promotions | Junior → Full Stack Engineer & SRE |
-
-</div>
 
 ---
 
@@ -187,39 +187,35 @@ mindmap
 
 ## 🛠️ Technology Stack - Executive Overview
 
-<div align="center">
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-<h3>Core Engineering Platforms</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
+    <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace"/>
+    <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch"/>
+</p>
 
-<h3>Cloud & Infrastructure</h3>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-
-<h3>Data & Observability</h3>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" />
-<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace" />
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
-
-<h3>DevOps & Automation</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
-<img src="https://img.shields.io/badge/Harness-00AEEF?style=for-the-badge&logo=harness&logoColor=white" alt="Harness" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-
-</div>
+<p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+    <img src="https://img.shields.io/badge/Harness-00AEEF?style=for-the-badge&logo=harness&logoColor=white" alt="Harness"/>
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+</p>
 
 ### **Technology Proficiency Matrix**
 
@@ -268,3 +264,36 @@ mindmap
 - Integrated **multiple data sources** (logs, metrics, traces) into unified dashboard
 - Implemented **real-time alerting** with customizable thresholds and notification channels
 - Created **historical trend analysis** capabilities for capacity planning
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=satyaaravapalli9-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyaaravapalli9-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaaravapalli9-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyaaravapalli9-sys&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph" width="100%"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**Master of Science in Computer Science** | Missouri State University | 2020 - 2022
+
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=satyaaravapalli9-sys&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=120&section=footer" alt="Footer"/>
+</p>
