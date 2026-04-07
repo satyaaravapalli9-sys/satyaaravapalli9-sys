@@ -1,17 +1,72 @@
+<!--
+███████╗ █████╗ ████████╗██╗   ██╗ █████╗     ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
+██╔════╝██╔══██╗╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+███████╗███████║   ██║    ╚████╔╝ ███████║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+╚════██║██╔══██║   ██║     ╚██╔╝  ██╔══██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+███████║██║  ██║   ██║      ██║   ██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+              F U L L   S T A C K   E N G I N E E R   &   S R E
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e3a8a,100:3b82f6&height=300&section=header&text=SATYA%20KUMAR&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=%E2%97%89%20FULL%20STACK%20ENGINEER%20%E2%97%89%20SRE%20%E2%97%89%20CLOUD%20ARCHITECT%20%E2%97%89&descSize=18&descAlign=50&descAlignY=75" />
+
+<br/>
+
+<!-- Animated Code Terminal -->
+
+```bash
+┌─[satya@production-systems]─[~/united-airlines/sre]
+└──╼ $ whoami
+Full Stack Engineer • Site Reliability Engineer | United Airlines | MS in CS
+
+┌─[satya@production-systems]─[~/achievements]
+└──╼ $ ls -la
+total 999
+drwxr-xr-x  15+ microservices architected on AWS EKS
+drwxr-xr-x  5+ years of production engineering excellence
+drwxr-xr-x  99.9% uptime maintained across critical systems
+-rw-r--r--  40% application performance improvement delivered
+-rw-r--r--  60% MTTR reduction through observability
+-rw-r--r--  Zero critical incidents over 2+ years
+
+┌─[satya@production-systems]─[~/current-mission]
+└──╼ $ cat vision.txt
+Engineering resilient, scalable systems that power mission-critical operations 🚀
+```
+
+<br/>
+
+<!-- Contact Matrix -->
+<table align="center">
+<tr>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/%F0%9F%93%B1_+1_(872)_276--7788-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117&color=E74C3C"/>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/%F0%9F%93%A7_satyaaravapalli9@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=0D1117&color=1ABC9C"/>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_USA-F39C12?style=for-the-badge&logoColor=white&labelColor=0D1117&color=E67E22"/>
+</td>
+</tr>
+</table>
+
+<!-- Professional Network -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=280&section=header&text=Satya%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Leader%20%7C%20Full%20Stack%20Architect%20%7C%20Cloud%20%26%20AI%20Specialist&descAlignY=55&descSize=22" alt="Header"/>
+<a href="https://linkedin.com/in/satyakumar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/satyaaravapalli9-sys">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
+</a>&nbsp;&nbsp;
+<a href="mailto:satyaaravapalli9@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=B71C1C" />
+</a>
 </p>
 
-<p align="center">
-    <a href="https://linkedin.com/in/satyakumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:satyaaravapalli9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="tel:+18722767788"><img src="https://img.shields.io/badge/Phone-%2B1%20(872)%20276--7788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
-    <a href="https://github.com/satyaaravapalli9-sys"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Java+Full+Stack+Developer+%7C+AWS+%7C+SRE;Building+Resilient+Systems+at+Scale;5%2B+Years+%7C+99.9%25+Uptime+%7C+15%2B+Microservices" alt="Typing SVG"/></a>
-</p>
+</div>
 
 ---
 
@@ -267,7 +322,44 @@ mindmap
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
+
+## 📊 **DEVELOPMENT IMPACT METRICS**
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 💻 **CODE CONTRIBUTIONS**
+
+<table>
+<tr><td>🚀</td><td><b>Production Systems</b></td><td><img src="https://img.shields.io/badge/15+-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⭐</td><td><b>System Uptime</b></td><td><img src="https://img.shields.io/badge/99.9%25-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔄</td><td><b>Performance Gain</b></td><td><img src="https://img.shields.io/badge/40%25+-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🐛</td><td><b>MTTR Reduction</b></td><td><img src="https://img.shields.io/badge/60%25-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📈</td><td><b>Years Experience</b></td><td><img src="https://img.shields.io/badge/5+-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
+</td>
+<td align="center">
+
+### 🛠️ **TECHNOLOGY MASTERY**
+
+<table>
+<tr><td>☕</td><td><b>Java/Spring</b></td><td><img src="https://img.shields.io/badge/Expert-ED8B00?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⚛️</td><td><b>React/JS</b></td><td><img src="https://img.shields.io/badge/Advanced-61DAFB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>☁️</td><td><b>AWS/Cloud</b></td><td><img src="https://img.shields.io/badge/Expert-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🐳</td><td><b>K8s/Docker</b></td><td><img src="https://img.shields.io/badge/Expert-326CE5?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📊</td><td><b>SRE/Observability</b></td><td><img src="https://img.shields.io/badge/Expert-9B59B6?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 📈 **DEVELOPMENT ACTIVITY MATRIX**
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=satyaaravapalli9-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
@@ -279,7 +371,7 @@ mindmap
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyaaravapalli9-sys&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyaaravapalli9-sys&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFA116&area=true&hide_border=true&theme=react" alt="Activity Graph" width="95%"/>
 </p>
 
 ---
@@ -290,10 +382,33 @@ mindmap
 
 ---
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=satyaaravapalli9-sys&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=120&section=footer" alt="Footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=120&section=footer&animation=twinkling" />
+
+### 🤝 **LET'S BUILD RESILIENT SYSTEMS TOGETHER**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=satyaaravapalli9-sys&color=blueviolet&style=for-the-badge&label=Profile+Analytics" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/satyaaravapalli9-sys?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&labelColor=0D1117" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+> **"System reliability is not a destination—it's a discipline practiced every day in production."**
+> _— Full Stack Engineer & SRE —_
+
+<br/>
+
+**🚀 Ready to engineer the next generation of cloud-native systems? Let's connect! 🌟**
+
+</div>
