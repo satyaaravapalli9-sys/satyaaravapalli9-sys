@@ -1,11 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=280&section=header&text=Satya%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Leader%20|%20Full%20Stack%20Architect%20|%20Cloud%20%26%20AI%20Specialist&descAlignY=55&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,50:1e40af,100:3b82f6&amp;height=280&amp;section=header&amp;text=Satya%20Kumar&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Engineering%20Leader%20|%20Full%20Stack%20Architect%20|%20Cloud%20%26%20AI%20Specialist&amp;descAlignY=55&amp;descSize=22)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyakumar)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyaaravapalli9@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B1%20(872)%20276--7788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+18722767788)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyaaravapalli9-sys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/satyakumar)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:satyaaravapalli9@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20(872)%20276--7788-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white)](tel:+18722767788)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/satyaaravapalli9-sys)
 
 </div>
 
@@ -26,10 +26,10 @@ Currently engineering **real-time operational systems** at United Airlines, wher
 | **Production Systems Supported** | 15+ Microservices | Real-time ops for major airline |
 | **System Reliability** | 99.9%+ Uptime | Zero critical outages in 2 years |
 | **Performance Optimization** | 40%+ Improvement | Reduced latency, eliminated throttling |
-| **Incident MTTR Reduction** | 60% Faster | Through observability & automation |
+| **Incident MTTR Reduction** | 60% Faster | Through observability &amp; automation |
 | **Cloud Infrastructure** | AWS EKS + 10+ Services | Cost-optimized, auto-scaling architecture |
 | **Technology Modernization** | Event-Driven Architecture | Kafka/MSK implementation |
-| **Career Progression** | 2 Promotions | Junior → Full Stack Engineer & SRE |
+| **Career Progression** | 2 Promotions | Junior → Full Stack Engineer &amp; SRE |
 
 </div>
 
@@ -191,33 +191,33 @@ mindmap
 
 ### **Core Engineering Platforms**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=spring-boot&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
 
-### **Cloud & Infrastructure**
+### **Cloud &amp; Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apache-kafka&amp;logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white)
 
-### **Data & Observability**
+### **Data &amp; Observability**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&amp;logo=amazon-dynamodb&amp;logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&amp;logo=dynatrace&amp;logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&amp;logo=opensearch&amp;logoColor=white)
 
-### **DevOps & Automation**
+### **DevOps &amp; Automation**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-00AEEF?style=for-the-badge&logo=harness&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-00AEEF?style=for-the-badge&amp;logo=harness&amp;logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&amp;logo=helm&amp;logoColor=white)
 
 </div>
 
