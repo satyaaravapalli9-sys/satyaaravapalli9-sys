@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e3a8a,100:3b82f6&height=300&section=header&text=SATYA%20KUMAR&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=%E2%97%89%20FULL%20STACK%20ENGINEER%20%E2%97%89%20SRE%20%E2%97%89%20CLOUD%20ARCHITECT%20%E2%97%89&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=SATYA%20KUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20SRE%20%7C%20Cloud%20Architect&descSize=18&descAlignY=55&descAlign=50" />
 
 <br/>
 
@@ -203,40 +203,54 @@ timeline
 
 ## 🧠 Technical Expertise Landscape
 
-```mermaid
-mindmap
-  root((Satya Kumar<br/>Technical Leader))
-    Backend Engineering
-      Java & Spring Boot
-      Microservices Architecture
-      REST & WebSocket APIs
-      Distributed Systems
-    Cloud & Infrastructure
-      AWS EKS Kubernetes
-      Lambda & Serverless
-      Docker & Helm
-      CI/CD Automation
-    Site Reliability
-      Observability Dynatrace
-      Incident Management
-      Performance Tuning
-      SLI/SLO Framework
-    Data Engineering
-      Kafka & Event Streaming
-      PostgreSQL & DynamoDB
-      OpenSearch Analytics
-      Data Pipeline Design
-    Frontend Development
-      React.js & Angular
-      Real-time WebSockets
-      Modern JavaScript
-      Responsive UI/UX
-    Emerging Tech
-      AI Workflow Integration
-      Machine Learning Ops
-      Predictive Analytics
-      Automation & RPA
-```
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚙️ Backend Engineering
+`Java & Spring Boot` `Microservices Architecture`
+`REST & WebSocket APIs` `Distributed Systems`
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud & Infrastructure
+`AWS EKS Kubernetes` `Lambda & Serverless`
+`Docker & Helm` `CI/CD Automation`
+
+</td>
+<td align="center" width="33%">
+
+### 🔍 Site Reliability
+`Observability Dynatrace` `Incident Management`
+`Performance Tuning` `SLI/SLO Framework`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🗄️ Data Engineering
+`Kafka & Event Streaming` `PostgreSQL & DynamoDB`
+`OpenSearch Analytics` `Data Pipeline Design`
+
+</td>
+<td align="center">
+
+### 🎨 Frontend Development
+`React.js & Angular` `Real-time WebSockets`
+`Modern JavaScript` `Responsive UI/UX`
+
+</td>
+<td align="center">
+
+### 🤖 Emerging Tech
+`AI Workflow Integration` `Machine Learning Ops`
+`Predictive Analytics` `Automation & RPA`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -362,16 +376,20 @@ mindmap
 ## 📈 **DEVELOPMENT ACTIVITY MATRIX**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=satyaaravapalli9-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyaaravapalli9-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaaravapalli9-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyaaravapalli9-sys&theme=tokyonight" alt="Profile Details" width="95%"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyaaravapalli9-sys&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFA116&area=true&hide_border=true&theme=react" alt="Activity Graph" width="95%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyaaravapalli9-sys&theme=tokyonight" alt="Repos per Language" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyaaravapalli9-sys&theme=tokyonight" alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyaaravapalli9-sys&custom_title=Satya%20Kumar%27s%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFA116&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </p>
 
 ---
